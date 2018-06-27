@@ -1,0 +1,15 @@
+[package]
+name = "rust-crypto-sandbox"
+version = "0.0.1"
+authors = ["Marc Kronberg <krocon@gmail.com>"]
+license = "MIT"
+homepage = "https://github.com/krocon/rust-crypto-sandbox"
+repository = "https://github.com/krocon/rust-crypto-sandbox"
+documentation = "https://github.com/krocon/rust-crypto-sandbox"
+description = "Sandbox for crypto currencies in rust"
+keywords = [ "crypto", "bitcoin", "sandbox", "rust" ]
+readme = "README.md"
+
+[dependencies]
+
+[dev-dependencies]
