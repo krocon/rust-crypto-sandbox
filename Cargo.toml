@@ -6,7 +6,7 @@ license = "MIT"
 homepage = "https://github.com/krocon/rust-crypto-sandbox"
 repository = "https://github.com/krocon/rust-crypto-sandbox"
 documentation = "https://github.com/krocon/rust-crypto-sandbox"
-description = "Sandbox for crypto currencies in rust"
+description = "Sandbox for crypto currencies in rust. Just a playground. Don't use it for production."
 keywords = [ "crypto", "bitcoin", "sandbox", "rust" ]
 readme = "README.md"
 
